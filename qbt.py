@@ -1,3 +1,5 @@
+# save file as /opt/yams/qbt.py
+
 # script checks if qbittorrent docker image is running and reloads the docker compose file for yams to restore it if not.
 # script is run via crontab for scheduled checks
 
