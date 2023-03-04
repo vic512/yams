@@ -8,7 +8,7 @@
 # add "*/15 * * * * python3 /opt/yams/qbt.py >/dev/null 2>&1" to the end of the file to commit it to the cron process.
 
 # script keeps a log of last run/check in the /opt/yams/qbt_log.txt file
-# sudo apt install python-pip
+# sudo apt install python3-pip
 # pip install docker
 
 from typing import Optional
